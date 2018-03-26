@@ -1,0 +1,91 @@
+(53618L, '/home/wwwroot/show_caller_audio_2017/20180321/192/770/9647823376060_e3843a148d8e9257.amr', 964L, '9647823376060', 8774L, '123997490e345e19c21e7a1cc689bb0a')
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "amrnb",
+            "codec_long_name": "AMR-NB (Adaptive Multi-Rate NarrowBand)",
+            "codec_type": "audio",
+            "codec_time_base": "1/8000",
+            "codec_tag_string": "samr",
+            "codec_tag": "0x726d6173",
+            "sample_fmt": "flt",
+            "sample_rate": "8000",
+            "channels": 1,
+            "channel_layout": "mono",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/8000",
+            "duration_ts": 43890,
+            "duration": "5.486250",
+            "bit_rate": "12800",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0
+            }
+        }
+    ],
+    "format": {
+        "filename": "/home/wwwroot/show_caller_audio_2017/20180321/192/770/9647823376060_e3843a148d8e9257.amr",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "format_name": "amr",
+        "format_long_name": "3GPP AMR",
+        "duration": "5.486250",
+        "size": "8784",
+        "bit_rate": "12808",
+        "probe_score": 100
+    }
+}
+
+4
+6
+duration   6
+Audio duration is  6
+Speech_status update success!
+{'tel_number': '9647823376060', 'cc': 964L, 'file_name': '123997490e345e19c21e7a1cc689bb0a', 'save_path': '/home/wwwroot/show_caller_audio_2017/20180321/192/770/9647823376060_e3843a148d8e9257.amr', 'duration': 6, 'id': 53618L, 'size': 8774L}
+/home/wwwroot/show_caller_audio_2017/20180321/192/770/9647823376060_e3843a148d8e9257.mp3
+Subprocess excute sucessed! 
+Temp_file make sucessed!
+2018-03-21 14:22:26+0800 [-] Log opened.
+2018-03-21 14:22:27+0800 [-] 3D%2B%2BYvWFrGwg2W%2Bnd4z90UFOU2AdQva0uGtOvvqgaVMVKNPjgxqZfEJ6mGGhEB%2F%2FVgBEQPMr2I%2BevlqtLl1u2AI%2BgH1%2F02BcQBZARQPIVXe0vl6amxWDJcrSLFew6J1OvHSp0WpAbisjN6TnQEVsn34ZqWSQWcT7fYRR1sgJMiMuSeWcGLtJOgnyUN5bmwwiSrl9oE5kdeicJ8zkD7Pudb4nRSvQB6RdUOE6aZrFIrgr%2BRZ2FOTgCFVpXFLKr6S1Th%2FTlMN7SpJ%2BNPp%2BAthAUojWa8VycA5AqClXgiXNmDfpouqjVKOAl6pLOBVum0QZmJEmf1o2JS4nmwPT14nU%2B478mTKsZpLSal%2FCB0cUUJ4Fd1PipQQ63AmOouQa1TA0yo8wu6h9EF%2FMtb3KmeXOE9x9yJuZcqNqMiDvjX5hF%2BAZGPnteqpy2lV2k%2B%2FmvuqiM37XjryIgQR9s9YmVWeS0OK7OQsZTBLQUQc5hQZduOWgImiwxPwizqzjYlrUiBx%2F3pAVV41YncwpHyTrZWLw08PngL6ORG9awxig82FEb8dgNWfKKd6itDZAUs7gx9XYtgFTXDANp7Nt4J4BwwMQZE%2FoO0VW7PBXmSar1t%2Bw1tMd6nTnaGzw6wahfR%2B%2BhX7bpSkFg7kw7tJzHH1cWtkv7sailEOsylYo7heHzi4ScU%2Bf6Zw18H1yox3Z2SkrL78yRLMgdhx3CNiHc4vDqnYku39kjaoIIIQOLqUEiSiE5nd5%2FqMPO3ePPqHFUI2lxf8TcnEMo8MO02krrWY32T8U3ZGWje9%2F0eZnIQqYOmxYOdoPKVXWQ1U2nzghoyqmTr5uFYDsC8dXrUawaSXKs9ie0bf6Cq95cw5jCXB1VWG8wo6lbYSE1foNQj80Ptfiqt9eoBhwB9QHW38VQNFw11Mf5GLi5aSB8A1w5aVH5DhkaDQOtOF1hzkgDq3ks5o%2FYnFradnrXeKBUHwUgBC6mbV4HijWLDfxA1fpkusZi8BqYe53FZ4dmJG4yyjeK5m4qXu3f8KCR%2FnLgCe3hhDd5aVF5w%3D%3D
+2018-03-21 14:22:27+0800 [-] Starting factory <__main__.WSInterfaceFactory object at 0x7fcac814e750>
+2018-03-21 14:22:27+0800 [-] contentType: audio/mp3 queueSize: 0
+2018-03-21 14:22:27+0800 [-] onConnect, server connected: tcp4:23.38.15.73:443
+2018-03-21 14:22:27+0800 [-] onOpen
+2018-03-21 14:22:27+0800 [-] sendMessage(init)
+2018-03-21 14:22:27+0800 [-] /home/wwwroot/show_caller_audio_2017/20180321/192/770/9647823376060_e3843a148d8e9257.mp3
+2018-03-21 14:22:27+0800 [-] onOpen ends
+2018-03-21 14:22:27+0800 [-] Text message received: {
+2018-03-21 14:22:27+0800 [-]    "state": "listening"
+2018-03-21 14:22:27+0800 [-] }
+2018-03-21 14:22:32+0800 [-] Text message received: {
+2018-03-21 14:22:32+0800 [-]    "results": [], 
+2018-03-21 14:22:32+0800 [-]    "result_index": 0, 
+2018-03-21 14:22:32+0800 [-]    "warnings": [
+2018-03-21 14:22:32+0800 [-]       "Unknown arguments: continuous."
+2018-03-21 14:22:32+0800 [-]    ]
+2018-03-21 14:22:32+0800 [-] }
+2018-03-21 14:22:32+0800 [-] empty hypothesis!
+2018-03-21 14:22:32+0800 [-] Text message received: {
+2018-03-21 14:22:32+0800 [-]    "state": "listening"
+2018-03-21 14:22:32+0800 [-] }
+2018-03-21 14:22:32+0800 [-] sending close 1000
+2018-03-21 14:22:32+0800 [-] onClose
+2018-03-21 14:22:32+0800 [-] WebSocket connection closed: None, code: 1000, clean: True, reason: None
+2018-03-21 14:22:32+0800 [-] about to stop the reactor!
+2018-03-21 14:22:32+0800 [-] getUtterance: no more utterances to process, queue is empty!
+2018-03-21 14:22:32+0800 [-] Stopping factory <__main__.WSInterfaceFactory object at 0x7fcac814e750>
+2018-03-21 14:22:32+0800 [-] Main loop terminated.
+2018-03-21 14:22:32+0800 [-] <type 'str'>
+2018-03-21 14:22:32+0800 [-] 
